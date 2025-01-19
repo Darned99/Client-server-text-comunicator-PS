@@ -1,1 +1,1 @@
-# Komunikator-tekstowy-typu-klient-serwer---PS
+# Komunikator-tekstowy-typu-klient-serwer-PS
